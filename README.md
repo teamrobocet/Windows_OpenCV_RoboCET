@@ -24,9 +24,10 @@ In​ ​order​ ​to​ ​verify​ ​your​ ​installation,
   2. Type import numpy and press Enter
 
 3.OpenCV
-  1. Double-click the OpenCV 2.4.13 file to commence installation
-  2. Navigate to the folder opencv/build/python/2.7/x86
-  3. Copy the file cv2.pyd to C:/Python27/lib/site-packages
+  1. Download OpenCV from https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.13/opencv-2.4.13.exe/download
+  2 Double-click the OpenCV 2.4.13 file to commence installation
+  3. Navigate to the folder opencv/build/python/2.7/x86
+  4. Copy the file cv2.pyd to C:/Python27/lib/site-packages
 In​ ​order​ ​to​ ​verify​ ​your​ ​installation,
   1. Open Command Prompt, type python and press Enter.
   2. This will open python prompt
