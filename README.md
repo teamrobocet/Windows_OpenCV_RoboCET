@@ -1,6 +1,6 @@
 # Windows_OpenCV_RoboCET
 
-Download the Drive Folder ’Windows_OpenCV_RoboCET’​ and follow the steps:
+Please clone/download the Folder ’Windows_OpenCV_RoboCET’​ and follow the steps:
 1.Python
   1. Double-click the Python 2.7.13 file to commence the installation. Follow the
   on-screen guidelines to complete the installation
